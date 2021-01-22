@@ -1,5 +1,5 @@
 /*
-Orange color: #4dac49
+Orange color: #283866
 
 */
 
@@ -85,7 +85,7 @@ h3 {
 h2:after {
     display: block;
     height: 2px;
-    background-color: #4dac49;
+    background-color: #283866;
     content: " ";
     width: 100px;
     margin: 0 auto;
@@ -109,7 +109,7 @@ h2:after {
 .icon-big {
     font-size: 350%;
     display: block;
-    color: #4dac49;
+    color: #283866;
     margin-bottom: 10px;
 }
 
@@ -117,7 +117,7 @@ h2:after {
     display: inline-block;
     width: 30px;
     text-align: center;
-    color: #4dac49;
+    color: #283866;
     font-size: 120%;
     margin-right: 10px;
     
@@ -131,10 +131,10 @@ h2:after {
 
 a:link,
 a:visited {
-    color: #4dac49;
+    color: #283866;
     text-decoration: none;
     padding-bottom: 1px;
-    border-bottom: 1px solid #4dac49;
+    border-bottom: 1px solid #283866;
     -webkit-transition: border-bottom 0.2s, color 0.2s;
     transition: border-bottom 0.2s, color 0.2s;
 }
@@ -161,33 +161,33 @@ input[type=submit] {
 .btn-full:link,
 .btn-full:visited,
 input[type=submit] {
-    background-color: #4dac49;
-    border: 1px solid #4dac49;
+    background-color: #283866;
+    border: 1px solid #283866;
     color: #fff;
     margin-right: 15px;
 }
 
 .btn-ghost:link,
 .btn-ghost:visited {
-    border: 1px solid #4dac49;
-    color: #4dac49;
+    border: 1px solid #283866;
+    color: #283866;
 }
 
 .btn:hover,
 .btn:active,
 input[type=submit]:hover,
 input[type=submit]:active {
-    background-color: #4dac49;
+    background-color: #283866;
 }
 
 .btn-full:hover,
 .btn-full:active {
-    border: 1px solid #4dac49;
+    border: 1px solid #283866;
 }
 
 .btn-ghost:hover,
 .btn-ghost:active {
-    border: 1px solid #4dac49;
+    border: 1px solid #283866;
     color: #fff;
 }
 
@@ -205,7 +205,7 @@ header {
     background-attachment: fixed;
 }
 
-.hero-text-box{
+.hero-text-box {
     position: absolute;
     width: 1140px;
     top: 50%;
@@ -256,7 +256,7 @@ header {
 
 .main-nav li a:hover,
 .main-nav li a:active {
-    border-bottom: 2px solid #4dac49;
+    border-bottom: 2px solid #283866;
 }
 
 
@@ -309,7 +309,7 @@ header {
 /* MEALS */
 /* ----------------------------------------------- */
 
-.section-meals4564 {
+.section-meals {
     padding: 0;
 }
 
@@ -388,11 +388,11 @@ header {
 }
 
 .works-step div {
-    color: #4dac49;
+    color: #283866;
     font-size: 150%;
     height: 54px;
     width: 54px;
-    border: 2px solid #4dac49;
+    border: 2px solid #283866;
     border-radius: 50%;
     display: inline-block;
     text-align: center;
@@ -508,7 +508,7 @@ cite img {
     font-size: 300%;
     margin-bottom: 10px;
     font-weight: 100;
-    color: #4dac49;
+    color: #283866;
 }
 
 .plan-price span {
